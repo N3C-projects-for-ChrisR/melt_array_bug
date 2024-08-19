@@ -10,6 +10,6 @@ Easier to see here with  a small set of data.
 
 - melt_df.py is the smaller inner function. Comments added here 
 about how the sql functions work.
--melt_array.py adds a column number and this code has a little more
+- melt_array.py adds a column number and this code has a little more
 test data.
 
